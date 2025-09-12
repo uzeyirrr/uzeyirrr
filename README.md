@@ -80,16 +80,6 @@
 - **Proje Yönetimi** ve takım liderliği
 - **Girişimcilik** ve stratejik planlama
 
-### 🏆 Öne Çıkan Projelerim
-
-#### 🤖 [AI Dil Eğitmeni](https://github.com/uzeyirrr/ai-dil-egitmeni)
-Yapay zeka destekli, kişiselleştirilmiş dil öğrenme platformu
-
-#### 🏢 [SBCOM CRM](https://github.com/uzeyirrr/sbcomyeni)
-Kapsamlı müşteri ilişkileri yönetimi sistemi
-
-#### 🌐 [Türkiye Fındık](https://trfturkiyefindik.com)
-Modern web teknolojileri ile geliştirilmiş kurumsal web sitesi
 
 ### 🌍 Diller
 
@@ -177,16 +167,6 @@ I'm a 24-year-old **entrepreneur** and **full-stack developer** passionate about
 - **Project Management** and team leadership
 - **Entrepreneurship** and strategic planning
 
-### 🏆 Featured Projects
-
-#### 🤖 [AI Language Tutor](https://github.com/uzeyirrr/ai-dil-egitmeni)
-AI-powered, personalized language learning platform
-
-#### 🏢 [SBCOM CRM](https://github.com/uzeyirrr/sbcomyeni)
-Comprehensive customer relationship management system
-
-#### 🌐 [Turkey Hazelnut](https://trfturkiyefindik.com)
-Corporate website built with modern web technologies
 
 ### 🌍 Languages
 
