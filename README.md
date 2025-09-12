@@ -93,6 +93,23 @@
 - 🇺🇸 **İngilizce** - Orta seviye (Pre-Intermediate)
 - 🇩🇪 **Almanca** - Başlangıç seviyesi (Beginner)
 
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=uzeyirrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzeyirrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=uzeyirrr" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzeyirrr&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzeyirrr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  
+</div>
 
 ### 📫 İletişim
 
@@ -183,6 +200,23 @@ I'm a 24-year-old **entrepreneur** and **full-stack developer** passionate about
 - 🇺🇸 **English** - Intermediate (Pre-Intermediate)
 - 🇩🇪 **German** - Beginner
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=uzeyirrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzeyirrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=uzeyirrr" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzeyirrr&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzeyirrr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  
+</div>
 
 ### 📫 Contact
 
@@ -271,25 +305,8 @@ Ich bin ein 24-jähriger **Unternehmer** und **Full-Stack-Entwickler**, der leid
 - 🇹🇷 **Türkisch** - Muttersprache
 - 🇺🇸 **Englisch** - Mittelstufe (Pre-Intermediate)
 - 🇩🇪 **Deutsch** - Anfänger
-- 🇸🇦 **Arabisch** - Anfänger
 
-### 📫 Kontakt
-
-<div align="center">
-  <a href="mailto:uzeyirismailbahtiyar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/%C3%BCzeyirismail/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-</div>
-
-
----
-
-## 📊 GitHub Statistics
+### 📊 GitHub-Statistiken
 
 <div align="center">
   
@@ -306,6 +323,21 @@ Ich bin ein 24-jähriger **Unternehmer** und **Full-Stack-Entwickler**, der leid
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzeyirrr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
   
 </div>
+
+### 📫 Kontakt
+
+<div align="center">
+  <a href="mailto:uzeyirismailbahtiyar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%BCzeyirismail/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+</div>
+
+
 
 ---
 
