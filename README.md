@@ -52,7 +52,12 @@
 #### Veritabanı & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-00D4AA?style=for-the-badge&logo=pocketbase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Sistem Programlama
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🎨 Yeteneklerim
 
@@ -61,6 +66,8 @@
 - **Mobil Uygulama Geliştirme** (iOS & Android)
 - **AI & Machine Learning** projeleri
 - **API Geliştirme** ve entegrasyonları
+- **Sistem Programlama** (Rust, Go)
+- **Backend-as-a-Service** (PocketBase)
 
 #### 🎨 Tasarım & Yaratıcılık
 - **Grafik Tasarım** (Adobe Photoshop, Illustrator, InDesign)
@@ -142,7 +149,12 @@ I'm a 24-year-old **entrepreneur** and **full-stack developer** passionate about
 #### Database & DevOps
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-00D4AA?style=for-the-badge&logo=pocketbase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### System Programming
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🎨 My Skills
 
@@ -151,6 +163,8 @@ I'm a 24-year-old **entrepreneur** and **full-stack developer** passionate about
 - **Mobile App Development** (iOS & Android)
 - **AI & Machine Learning** projects
 - **API Development** and integrations
+- **System Programming** (Rust, Go)
+- **Backend-as-a-Service** (PocketBase)
 
 #### 🎨 Design & Creativity
 - **Graphic Design** (Adobe Photoshop, Illustrator, InDesign)
