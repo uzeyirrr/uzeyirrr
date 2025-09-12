@@ -94,14 +94,11 @@ Modern web teknolojileri ile geliştirilmiş kurumsal web sitesi
 ### 📫 İletişim
 
 <div align="center">
-  <a href="mailto:uzeyir@yezuri.com">
+  <a href="mailto:uzeyirismailbahtiyar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/uzeyir-bahtiyar">
+  <a href="https://www.linkedin.com/in/%C3%BCzeyirismail/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/uzeyirrr">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
@@ -187,14 +184,11 @@ Corporate website built with modern web technologies
 ### 📫 Contact
 
 <div align="center">
-  <a href="mailto:uzeyir@yezuri.com">
+  <a href="mailto:uzeyirismailbahtiyar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/uzeyir-bahtiyar">
+  <a href="https://www.linkedin.com/in/%C3%BCzeyirismail/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/uzeyirrr">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
