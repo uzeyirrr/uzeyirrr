@@ -15,9 +15,6 @@
   <a href="#german">
     <img src="https://img.shields.io/badge/🇩🇪%20Deutsch-2F81F7?style=for-the-badge&logo=&logoColor=white" alt="German" />
   </a>
-  <a href="#arabic">
-    <img src="https://img.shields.io/badge/🇸🇦%20العربية-2F81F7?style=for-the-badge&logo=&logoColor=white" alt="Arabic" />
-  </a>
 </div>
 
 ---
@@ -185,7 +182,6 @@ I'm a 24-year-old **entrepreneur** and **full-stack developer** passionate about
 - 🇹🇷 **Turkish** - Native
 - 🇺🇸 **English** - Intermediate (Pre-Intermediate)
 - 🇩🇪 **German** - Beginner
-- 🇸🇦 **Arabic** - Beginner
 
 
 ### 📫 Contact
@@ -290,94 +286,6 @@ Ich bin ein 24-jähriger **Unternehmer** und **Full-Stack-Entwickler**, der leid
 
 </div>
 
----
-
-## 🇸🇦 العربية
-
-<div id="arabic">
-
-### 🚀 عني
-
-أنا **رائد أعمال** ومطور **Full-Stack** بعمر 24 عاماً، شغوف بالتكنولوجيا والتعلم. من أصل سكاريا، أعيش حالياً في إسطنبول. بدلاً من الوقوع في أنماط الحياة الجامعية النظرية، اخترت اكتساب خبرة عملية من خلال الغوص مباشرة في عالم الأعمال.
-
-### 🎯 ماذا أعمل حالياً؟
-
-- 🔥 أعمل كمؤسس ومطور رئيسي لشركتي الناشئة **Yezuri**
-- 💻 أطور تطبيقات قابلة للتوسع باستخدام تقنيات الويب الحديثة
-- 🎨 أعمل على مشاريع النمذجة ثلاثية الأبعاد والرسوم المتحركة
-- 📚 أتعلم باستمرار
-
-### 🛠️ تقنياتي
-
-#### Frontend & Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### تطوير الهواتف المحمولة
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-#### التصميم والإبداع
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-#### قواعد البيانات والعمليات
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PocketBase](https://img.shields.io/badge/PocketBase-00D4AA?style=for-the-badge&logo=pocketbase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### برمجة الأنظمة
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🎨 مهاراتي
-
-#### 💻 تطوير البرمجيات
-- **تطوير Full-Stack** (Next.js, TypeScript, Astro)
-- **تطوير تطبيقات الهواتف المحمولة** (iOS & Android)
-- **مشاريع الذكاء الاصطناعي والتعلم الآلي**
-- **تطوير APIs** والتكاملات
-- **برمجة الأنظمة** (Rust, Go)
-- **Backend-as-a-Service** (PocketBase)
-- **تطوير WordPress** (تطوير القوالب والإضافات، PHP)
-
-#### 🎨 التصميم والإبداع
-- **التصميم الجرافيكي** (Adobe Photoshop, Illustrator, InDesign)
-- **إنتاج الفيديو** (Premiere Pro, After Effects)
-- **النمذجة ثلاثية الأبعاد والرسوم المتحركة** (Blender)
-- **تصميم UI/UX**
-
-#### 📈 تطوير الأعمال
-- **التسويق الرقمي** (Google Ads, Facebook, Instagram Ads)
-- **إدارة المشاريع** وقيادة الفريق
-- **ريادة الأعمال** والتخطيط الاستراتيجي
-
-### 🌍 اللغات
-
-- 🇹🇷 **التركية** - اللغة الأم
-- 🇺🇸 **الإنجليزية** - مستوى متوسط (Pre-Intermediate)
-- 🇩🇪 **الألمانية** - مبتدئ
-- 🇸🇦 **العربية** - مبتدئ
-
-### 📫 التواصل
-
-<div align="center">
-  <a href="mailto:uzeyirismailbahtiyar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/%C3%BCzeyirismail/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-</div>
 
 ---
 
