@@ -80,8 +80,7 @@ I'm a 24-year-old **entrepreneur** and **full-stack developer** passionate about
 
 <div align="center">
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzeyirrr&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
+
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzeyirrr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
