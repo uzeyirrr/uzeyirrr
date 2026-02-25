@@ -197,10 +197,6 @@ Instead of getting stuck in theoretical university life patterns, I chose to gai
 
 <br/><br/>
 
-> 🇹🇷 *"Teknoloji, hayal gücünün sınırlarını genişletir."*
->
-> 🇺🇸 *"Technology expands the boundaries of imagination."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
