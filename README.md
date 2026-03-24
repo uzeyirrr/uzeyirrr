@@ -77,7 +77,3 @@ const uzeyir = {
 <a href="https://linkedin.com/in/üzeyirismail">LinkedIn</a>
 
 ---
-
-<div align="center">
-  <sub>Istanbul — building since before the ☕ gets cold</sub>
-</div>
