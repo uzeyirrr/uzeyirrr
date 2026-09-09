@@ -25,7 +25,7 @@ Five years in, and the part I still like most is the ambiguous brief — the one
 
 ## 85 repositories, most of them live
 
-That number isn't a boast about volume — plenty of people have 85 abandoned repos. It's the output of two specific decisions.
+That number isn't a boast about volume — plenty of people have 90 abandoned repos. It's the output of two specific decisions.
 
 The first is that I run several coding agents in parallel across isolated git worktrees instead of working one branch at a time. The second is that I host everything myself on Docker Swarm rather than paying per project, so spinning up a new service costs me minutes and nothing else.
 
