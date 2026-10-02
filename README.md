@@ -23,7 +23,7 @@ I also work AI-first, and I mean it structurally rather than as autocomplete. I 
 
 Five years in, and the part I still like most is the ambiguous brief — the one where nobody has written down what the software should be yet.
 
-## 85 repositories, most of them live
+## 94 repositories, most of them live
 
 That number isn't a boast about volume — plenty of people have 90 abandoned repos. It's the output of two specific decisions.
 
