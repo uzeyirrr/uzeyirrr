@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Üzeyir%20İsmail%20Bahtiyar&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=55&desc=Full-stack%20engineer%20—%20I%20ship%20the%20app%20and%20run%20the%20infrastructure%20under%20it&descAlignY=78&descSize=14&descColor=8b949e" />
-</div>
 
 <br />
 
